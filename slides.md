@@ -117,9 +117,10 @@ Tig (demo)
 * Htop (demo)
 * tldr
 * homesick
-* font-awesome
+* [font-awesome](http://fontawesome.io/icons/)
 * mutt
 * lynx
+* screenfetch (demo)
 
 ---
 
