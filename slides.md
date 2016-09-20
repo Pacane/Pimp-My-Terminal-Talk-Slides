@@ -24,8 +24,8 @@
 -> # Eye-Candy & fonctions supplémentaires pour le Shell <-
 
 * Bash -> bash-it
-* Zsh -> [prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules) / oh-my-zsh
-* Fish -> Fisherman
+* [Zsh](https://github.com/Pacane/Pimp-My-Terminal-Talk-Slides/blob/master/prezto-sample.png) -> [prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules) / oh-my-zsh
+* [Fish](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/fish-shell.png) -> Fisherman
 
 ---
 
@@ -46,7 +46,6 @@
 
 NeoVim (ou Vim)  & vim-plug
 
-
     Plug 'airblade/vim-gitgutter'
     Plug 'scrooloose/syntastic'
     Plug 'xuhdev/vim-latex-live-preview'
@@ -59,10 +58,10 @@ NeoVim (ou Vim)  & vim-plug
 
 -> # More eye candy <-
 
-## POWERLINE !!!!1!
+-> ## POWERLINE !!!!1! <-
 
 * zsh / fish
-* tmux
+* [tmux](file://tmux-powerline.png)
 * vim
 
 ---
