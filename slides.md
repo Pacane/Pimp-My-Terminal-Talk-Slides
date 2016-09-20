@@ -91,7 +91,7 @@ NeoVim (ou Vim)  & vim-plug
 
 -> # Musique & Son <-
 
-* mpd (demo manuel)
+* mpd (demo manuelle)
 * ncmpcpp / mpc
 * GMusicProxy / gph
 * modipy-spotify 
