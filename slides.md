@@ -25,7 +25,7 @@
 
 * Bash -> bash-it
 * [Zsh](https://github.com/Pacane/Pimp-My-Terminal-Talk-Slides/blob/master/prezto-sample.png) -> [prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules) / oh-my-zsh
-* [Fish](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/fish-shell.png) -> Fisherman
+* [Fish](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/fish-shell.png) -> Fisherman / oh-my-fish
 
 ---
 
@@ -60,8 +60,29 @@ NeoVim (ou Vim)  & vim-plug
 
 -> ## POWERLINE !!!!1! <-
 
-* zsh / fish
+* [Symbols](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/powerline-symbols-base.png)
+* [Symbols Extra](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/terminal-w-powerline-extra.png)
+
+* [Zsh](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/terminal-w-powerline.png) / fish
 * [tmux](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/tmux-powerline.png)
-* vim
+* vim / [vim-airline](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/vim-airline.png)
 
 ---
+
+-> # Workflow & Sessions <-
+
+Tmuxinator (demo)
+---
+
+-> # Chat <-
+
+* Irssi
+* [Weechat](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/weechat.png)
+* Finch
+
+---
+
+-> # Calendrier <-
+
+* gcalcli
+
