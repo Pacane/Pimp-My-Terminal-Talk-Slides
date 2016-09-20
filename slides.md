@@ -8,6 +8,8 @@
 * Linux : xfce4-terminal / URxvt
 * Windows : lol
 
+** Mention spéciale: Guake
+
 -------------------------------------------------
 
 -> # Shell <-
@@ -33,8 +35,34 @@
 	- tpm 
 * Screen
 
+    # List of plugin
+    set -g @plugin 'tmux-plugins/tpm'
+    set -g @plugin 'tmux-plugins/tmux-sensible'
+    set -g @plugin 'tmux-plugins/tmux-yank'
+
 ---
 
--> # Sessions & Multiplexers <-
+-> # Text editor <-
+
+NeoVim (ou Vim)  & vim-plug
+
+
+    Plug 'airblade/vim-gitgutter'
+    Plug 'scrooloose/syntastic'
+    Plug 'xuhdev/vim-latex-live-preview'
+    Plug 'dart-lang/dart-vim-plugin'
+    Plug 'godlygeek/tabular'
+    Plug 'plasticboy/vim-markdown'
+    Plug 'OrangeT/vim-csharp'
+
+---
+
+-> # More eye candy <-
+
+## POWERLINE !!!!1!
+
+* zsh / fish
+* tmux
+* vim
 
 ---
