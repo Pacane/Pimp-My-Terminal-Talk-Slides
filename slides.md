@@ -61,7 +61,7 @@ NeoVim (ou Vim)  & vim-plug
 -> ## POWERLINE !!!!1! <-
 
 * zsh / fish
-* [tmux](file://tmux-powerline.png)
+* [tmux](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/tmux-powerline.png)
 * vim
 
 ---
