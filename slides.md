@@ -24,7 +24,7 @@
 -> # Eye-Candy & fonctions supplémentaires pour le Shell <-
 
 * Bash -> bash-it
-* [Zsh](https://github.com/Pacane/Pimp-My-Terminal-Talk-Slides/blob/master/prezto-sample.png) -> [prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules) / oh-my-zsh
+* [Zsh](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/prezto-sample.png) -> [prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules) / oh-my-zsh
 * [Fish](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/fish-shell.png) -> Fisherman / oh-my-fish
 
 ---
@@ -69,11 +69,6 @@ NeoVim (ou Vim)  & vim-plug
 
 ---
 
--> # Workflow & Sessions <-
-
-Tmuxinator (demo)
----
-
 -> # Chat <-
 
 * Irssi
@@ -84,5 +79,50 @@ Tmuxinator (demo)
 
 -> # Calendrier <-
 
-* [gcalcli](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/gcalcli-sample.png)
+[gcalcli](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/gcalcli-sample.png)
 
+---
+
+-> # File manager <-
+
+* vifm (demo)
+
+---
+
+-> # Musique & Son <-
+
+* mpd (demo manuel)
+* ncmpcpp / mpc
+* GMusicProxy / gph
+* modipy-spotify 
+* [pulsemixer](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/pulse_mixer.png)
+
+---
+
+-> # Workflow & Sessions <-
+
+Tmuxinator (demo)
+
+---
+
+-> # Git <-
+
+Tig (demo)
+
+---
+
+-> # Misc <-
+
+* Hack
+* Htop (demo)
+* tldr
+* homesick
+* font-awesome
+* mutt
+* lynx
+
+---
+
+-> # Yay! <-
+
+Questions?
