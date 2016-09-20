@@ -84,5 +84,5 @@ Tmuxinator (demo)
 
 -> # Calendrier <-
 
-* gcalcli
+* [gcalcli](https://raw.githubusercontent.com/Pacane/Pimp-My-Terminal-Talk-Slides/master/gcalcli-sample.png)
 
