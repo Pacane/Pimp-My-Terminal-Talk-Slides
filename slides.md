@@ -4,11 +4,11 @@
 
 -> # Terminal Emulator <-
 
-* OSX : iTerm2
-* Linux : xfce4-terminal / URxvt
-* Windows : lol
+* OSX : [iTerm2](https://www.iterm2.com/)
+* Linux : [xfce4-terminal](http://docs.xfce.org/apps/terminal/start) / [URxvt](https://wiki.archlinux.org/index.php/rxvt-unicode)
+* Windows : [lol](http://mrdoob.com/lab/javascript/effects/ie6/)
 
-** Mention spéciale: Guake
+** Mention spéciale: [Guake](https://doc.ubuntu-fr.org/guake)
 
 -------------------------------------------------
 
@@ -113,14 +113,14 @@ Tig (demo)
 
 -> # Misc <-
 
-* Hack
-* Htop (demo)
-* tldr
-* homesick
+* [Hack](https://github.com/chrissimpkins/Hack)
+* [Htop](http://hisham.hm/htop/) (demo)
+* [tldr](https://github.com/tldr-pages/tldr)
+* [homesick](https://github.com/technicalpickles/homesick#homesick)
 * [font-awesome](http://fontawesome.io/icons/)
-* mutt
-* lynx
-* screenfetch (demo)
+* [mutt](http://www.mutt.org/)
+* [lynx](http://lynx.browser.org/)
+* [screenfetch](https://github.com/KittyKatt/screenFetch) (demo)
 
 ---
 
